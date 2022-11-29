@@ -8,6 +8,14 @@
 
 Postagens em destaque e recentes, categorias. artigos completos de remarcação, informações do autor, comentários e muito mais, este aplicativo de blog #HeadlessCMS totalmente responsivo, gerenciar o blog a partir de um Sistema de Gerenciamento de Conteúdo dedicado.
 
+<center>
+
+<h5><a href="https:https://open-source-for-juniors.vercel.app">clique aqui</a></h5>
+
+![Capturar](https://user-images.githubusercontent.com/94051879/204521280-2fa07117-be5c-4d89-9a62-1e4a4c5c569a.JPG)
+
+</center>
+
 </br>
 
 ## Uma breve descrição de como foi feito:
