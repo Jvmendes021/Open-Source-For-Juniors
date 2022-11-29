@@ -1,27 +1,34 @@
-# Next.js + Tailwind CSS Example
+<h1 align="center"> Open Source For Juniors</h1>
 
-This example shows how to use [Tailwind CSS](https://tailwindcss.com/) [(v3.2)](https://tailwindcss.com/blog/tailwindcss-v3-2) with Next.js. It follows the steps outlined in the official [Tailwind docs](https://tailwindcss.com/docs/guides/nextjs).
+<div align="center"><p>🚧 Está em Desenvolvimento 🚧</p></div>
 
-## Deploy your own
+</br>
 
-Deploy the example using [Vercel](https://vercel.com?utm_source=github&utm_medium=readme&utm_campaign=next-example) or preview live with [StackBlitz](https://stackblitz.com/github/vercel/next.js/tree/canary/examples/with-tailwindcss)
+## Blog Official 
 
-[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/git/external?repository-url=https://github.com/vercel/next.js/tree/canary/examples/with-tailwindcss&project-name=with-tailwindcss&repository-name=with-tailwindcss)
+Postagens em destaque e recentes, categorias. artigos completos de remarcação, informações do autor, comentários e muito mais, este aplicativo de blog #HeadlessCMS totalmente responsivo, gerenciar o blog a partir de um Sistema de Gerenciamento de Conteúdo dedicado.
 
-## How to use
+</br>
 
-Execute [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app) with [npm](https://docs.npmjs.com/cli/init), [Yarn](https://yarnpkg.com/lang/en/docs/cli/create/), or [pnpm](https://pnpm.io) to bootstrap the example:
+## Uma breve descrição de como foi feito:
 
-```bash
-npx create-next-app --example with-tailwindcss with-tailwindcss-app
-```
+- Usamos a pré-renderização do Next JS com geração estática.
+- Interface de usuário moderna (UI) usando Tailwind CSS.
+- Utilizamos a linguagem de consulta GraphQL criação de esquemas, modelos e, finalmente, a recuperação de dados usando consultas do GraphQL.
+- GraphCMS é o melhor sistema de gerenciamento de conteúdo GraphQL (CMS)
 
-```bash
-yarn create next-app --example with-tailwindcss with-tailwindcss-app
-```
+</br>
 
-```bash
-pnpm create next-app --example with-tailwindcss with-tailwindcss-app
-```
+## Tecnologias Ultilizadas no projeto 
 
-Deploy it to the cloud with [Vercel](https://vercel.com/new?utm_source=github&utm_medium=readme&utm_campaign=next-example) ([Documentation](https://nextjs.org/docs/deployment)).
+- Next JS
+- Tailwind CSS
+- GraphQL (CMS)
+
+</br>
+
+## Links Úteis
+
+- ⭐GraphCMS - https://go.graphcms.com/
+- ⭐Tailwind CSS - https://tailwindcss.com
+- ⭐Next JS - https://nextjs.org
