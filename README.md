@@ -16,8 +16,6 @@ Postagens em destaque e recentes, categorias. artigos completos de remarcação,
 
 </center>
 
-</br>
-
 ## Uma breve descrição de como foi feito:
 
 - Usamos a pré-renderização do Next JS com geração estática.
