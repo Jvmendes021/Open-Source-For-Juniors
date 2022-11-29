@@ -25,7 +25,7 @@ Postagens em destaque e recentes, categorias. artigos completos de remarcação,
 
 </br>
 
-## Tecnologias Ultilizadas no projeto 
+## Tecnologias Utilizadas no projeto 
 
 - Next JS
 - Tailwind CSS
