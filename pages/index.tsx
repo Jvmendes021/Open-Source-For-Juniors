@@ -1,7 +1,8 @@
 import Head from 'next/head';
 import { PostCard, Categories, PostWidget } from '../components';
-import { getFeaturedPosts, getPosts } from '../services';
+import { getPosts } from '../services';
 import { FeaturedPosts } from '../sections';
+import { Key } from 'react';
 
 
 export default function Home ({ posts }) {
@@ -14,7 +15,7 @@ export default function Home ({ posts }) {
       <FeaturedPosts />
       <div className='grid grid-cols-1 lg:grid-cols-12 gap-12'>
         <div className='lg:col-span-8 col-span-1'>
-          {posts.map((post) => <PostCard post={post.node} key={post.title} />)}
+          {posts.map((post: { node: any; title: Key; }) => <PostCard post={post.node} key={post.title} />)}
         </div>
         <div className='lg:col-span-4 col-span-1'>
           <div className='lg:sticky relative top-8'>
@@ -26,7 +27,6 @@ export default function Home ({ posts }) {
     </div>
   )
 }
-
 //Buscar dados no tempo de compilação
 export async function getStaticProps() {
   const posts = (await getPosts()) || [];
