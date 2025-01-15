@@ -35,6 +35,6 @@ Postagens em destaque e recentes, categorias. artigos completos de remarcação,
 
 ## Links Úteis
 
-- ⭐GraphCMS - https://go.graphcms.com/
+- ⭐GraphCMS - https://app.hygraph.com
 - ⭐Tailwind CSS - https://tailwindcss.com
 - ⭐Next JS - https://nextjs.org
